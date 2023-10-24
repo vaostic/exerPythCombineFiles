@@ -1,0 +1,36 @@
+name,date,height,weight,Source
+Jack Smith,4/1/2019,185,91,CSVtest.csv
+Jack Black,4/2/2019,183,91,CSVtest.csv
+Brock Bricks,4/10/2019,185,95,CSVtest2.csv
+Jack Brack,6/7/2019,172,91,CSVtest2.csv
+Jock Bricks,4/10/2019,185,94,CSVtest3.csv
+Jack Brack,6/7/2019,172,91,CSVtest3.csv
+Jack Smith,4/1/2019,185,91,NewCombinedFile_2023-10-24.csv
+Jack Black,4/2/2019,183,91,NewCombinedFile_2023-10-24.csv
+Brock Bricks,4/10/2019,185,95,NewCombinedFile_2023-10-24.csv
+Jack Brack,6/7/2019,172,91,NewCombinedFile_2023-10-24.csv
+Jen Smith,2019-05-02 00:00:00,153,50,NewCombinedFile_2023-10-24.csv
+Sam Smith,2019-01-02 00:00:00,160,55,NewCombinedFile_2023-10-24.csv
+Rock Royden,2019-05-02 00:00:00,160,52,NewCombinedFile_2023-10-24.csv
+Brandon Snads,2019-10-02 00:00:00,175,80,NewCombinedFile_2023-10-24.csv
+Jane Smith,09/02/2019,170,75,NewCombinedFile_2023-10-24.csv
+Jane Jackson,09/03/2019,172,74,NewCombinedFile_2023-10-24.csv
+Becky Jackson,04/03/2019,165,70,NewCombinedFile_2023-10-24.csv
+John Smith,02/08/2019,180,100,NewCombinedFile_2023-10-24.csv
+John Smithe,03/08/2019,185,101,NewCombinedFile_2023-10-24.csv
+Brett Smithe,05/08/2019,179,99,NewCombinedFile_2023-10-24.csv
+Jen Smith,2019-05-02 00:00:00,153,50,EXCELtest.xlsx
+Sam Smith,2019-01-02 00:00:00,160,55,EXCELtest.xlsx
+Rock Royden,2019-05-02 00:00:00,160,52,EXCELtest2.xlsx
+Brandon Snads,2019-10-02 00:00:00,175,80,EXCELtest2.xlsx
+Rash Royden,2019-05-03 00:00:00,161,53,EXCELtest3.xlsx
+Brandy Snads,2019-10-03 00:00:00,165,65,EXCELtest3.xlsx
+Jane Smith,09/02/2019,170,75,JSONtest.json
+Jane Jackson,09/03/2019,172,74,JSONtest2.json
+Becky Jackson,04/03/2019,165,70,JSONtest3.json
+Becky Johnson,04/04/2019,166,71,JSONtest4.json
+Brett Smithe,05/08/2019,179,99,.xml
+John Smith,02/08/2019,180,100,XMLtest.xml
+John Smithe,03/08/2019,185,101,XMLtest2.xml
+Brett Smithe,05/08/2019,179,99,XMLtest3.xml
+Bob Smithe,05/09/2019,178,98,XMLtest4.xml
